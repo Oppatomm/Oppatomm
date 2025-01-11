@@ -15,8 +15,8 @@
 👨🏻‍🎓 Computer Science Student at King Mongkut's Institute of Technology Ladkrabang, Bangkok
 
 <!-- GitHub Stats: -->
-![](https://github-readme-stats.vercel.app/api?username=Oppatomm&theme=default&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=300)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oppatomm&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Oppatomm&theme=default&hide_border=false&include_all_commits=false&count_private=false&cache_seconds=300) <br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oppatomm&theme=white) 
 
 <!-- Tech Stack: -->
 # 💻 Tech Stack:
